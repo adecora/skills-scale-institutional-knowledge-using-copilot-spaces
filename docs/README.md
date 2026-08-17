@@ -22,3 +22,4 @@ OctoAcme uses a lightweight, structured project management approach that starts 
 - Refer to Execution & Tracking during delivery.
 - Use the Risk, Release, and Retrospective docs for ongoing management and improvement.
 - Consult Roles and Personas to align responsibilities and expectations across the team.
+ 
